@@ -48,7 +48,8 @@ int main()
     return 0;
 }
 
-""" output: 
+""" 
+output: 
 element Popped: 11
 element Popped: 23
 element Popped: 19
