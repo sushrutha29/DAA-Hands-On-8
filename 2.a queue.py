@@ -73,6 +73,7 @@ int main()
 }
 
 """
+output:
 element Dequeued: 23
 element Dequeued: 35
 element Dequeued: 12
